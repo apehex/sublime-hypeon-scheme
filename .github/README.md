@@ -28,7 +28,7 @@
 
 ## License
 
-Copyright (c) 2025 apehex under the [aGPLv3][github-license].
+Copyright (c) 2025 apehex under the [MIT license][github-license].
 
 [shield-license]: https://img.shields.io/github/license/apehex/sublime-hypeon-scheme.svg?style=flat-square
 [shield-release]: https://img.shields.io/github/release/apehex/sublime-hypeon-scheme.svg?style=flat-square
