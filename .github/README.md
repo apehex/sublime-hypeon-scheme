@@ -1,10 +1,10 @@
-# Hypeon Theme
+# Hypeon Theme <img src="images/logo.png" alt="apehex logo" width="32" height="32">
 
 [![License][shield-license]][github-license]
 [![Download][shield-repo]][subl-repo]
 [![Latest][shield-release]][github-release]
 
-> ![][image-logo] hypeon is a dark color theme for [Sublime Text][subl-web].
+> hypeon is a dark color theme for [Sublime Text][subl-web].
 
 ## Screenshots:
 
