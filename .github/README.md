@@ -38,10 +38,10 @@ Copyright (c) 2025 apehex under the [aGPLv3][github-license].
 [subl-repo]: https://packagecontrol.io/packages/Hypeon%20Theme
 [subl-web]: https://sublimetext.io/
 
-[github-license]: .github/LICENSE.md
-[github-release]: https://github.com/MarkMichos/1337-Scheme/releases/latest
+[github-license]: LICENSE.md
+[github-release]: https://github.com/apehex/sublime-hypeon-scheme/releases/latest
 
-[image-json]: .github/images/json.png
-[image-logo]: .github/images/logo.png
-[image-markdown]: .github/images/markdown.png
-[image-python]: .github/images/python.png
+[image-json]: images/json.png
+[image-logo]: images/logo.png
+[image-markdown]: images/markdown.png
+[image-python]: images/python.png
