@@ -6,13 +6,13 @@
 
 > hypeon is a dark color theme for [Sublime Text][subl-web].
 
-## Screenshots:
+## Screenshots
 
 | JSON              | Markdown              | Python                |
 | ----------------- | --------------------- | --------------------- |
 | ![][image-json]   | ![][image-markdown]   | ![][image-python]     |
 
-## Installation:
+## Installation
 
 ### via Package Control
 
@@ -26,7 +26,7 @@
 2. Browse Packages from the Command Palette (via `Preferences > Browse packages` from the main menu).
 3. Copy the **`Hypeon.sublime-color-scheme`** file to `Packages/User/`.
 
-## LICENSE
+## License
 
 Copyright (c) 2025 apehex under the [aGPLv3][github-license].
 
