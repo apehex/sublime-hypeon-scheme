@@ -1,10 +1,10 @@
-# Hypeon Theme <img src="images/logo.png" alt="apehex logo" width="32" height="32">
+# Hypeon Color Scheme <img src="images/logo.png" alt="apehex logo" width="32" height="32">
 
 [![License][shield-license]][github-license]
 [![Download][shield-repo]][subl-repo]
 [![Latest][shield-release]][github-release]
 
-> hypeon is a dark color theme for [Sublime Text][subl-web].
+> hypeon is a dark color color scheme for [Sublime Text][subl-web].
 
 ## Screenshots
 
@@ -18,7 +18,7 @@
 
 1. Make sure you already have [package control][subl-docs] installed.
 2. Choose Install Package from the Command Palette (via `Tools > Command Palette` from the main menu).
-3. Select **`Hypeon Color Theme`** and press <kbd>Enter</kbd>.
+3. Select **`Hypeon Color Scheme`** and press <kbd>Enter</kbd>.
 
 ### or Manual Installation
 
@@ -32,10 +32,10 @@ Copyright (c) 2025 apehex under the [MIT license][github-license].
 
 [shield-license]: https://img.shields.io/github/license/apehex/sublime-hypeon-scheme.svg?style=flat-square
 [shield-release]: https://img.shields.io/github/release/apehex/sublime-hypeon-scheme.svg?style=flat-square
-[shield-repo]: https://img.shields.io/packagecontrol/dt/Hypeon%20Theme.svg?style=flat-square
+[shield-repo]: https://img.shields.io/packagecontrol/dt/Hypeon%20Color%20Scheme.svg?style=flat-square
 
 [subl-docs]: https://docs.sublimetext.io/guide/extensibility/packages.html#installing-packages
-[subl-repo]: https://packagecontrol.io/packages/Hypeon%20Theme
+[subl-repo]: https://packagecontrol.io/packages/Hypeon%20Color%20Scheme
 [subl-web]: https://sublimetext.io/
 
 [github-license]: LICENSE.md
